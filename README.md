@@ -1,12 +1,9 @@
 # Hello, I'm Junaid
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Accomplished Cybersecurity Analyst with 2 years of specialized experience in SOC operations within private security software contracting. Adept in threat analysis, implementing resilient defense strategies, and ensuring the integrity of systems. Proficient in utilizing industry-standard tools and methodologies to mitigate cyber risks and safeguard organizational assets.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
